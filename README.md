@@ -18,7 +18,7 @@ My name is Andjela Stevanovic, I'm 20 years old from Nis, Serbia.<br>I am comple
 
 ## 🙋‍♂️ About Me
 
-<img width="450px" height="350px"  align="right" alt="Github"  />
+
 <br/>
 
 <ul style="text-align: justify; text-justify: inter-word;">
